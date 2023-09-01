@@ -9,7 +9,7 @@
 
 <h3 align="center">📚 Most Used Languages 📚</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee000403"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong000403@gmail.com"></a>
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
