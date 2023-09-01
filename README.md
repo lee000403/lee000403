@@ -32,7 +32,10 @@
   <a href="mailto:dong000403@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<h3 align="center"><img src="https://img.shields.io/badge/CodeProject-FF9900?style=flat-square&logo=CodeProject&logoColor=white"/></a>&nbsp Spring Boot Project</h3>
+<h3 align="center">📒 Spring Boot Project 📒</h3>
+<p align="center">
+  <a href="https://github.com/lee000403/PROJECT_TAB/blob/main/README.md">
+</p>
 
 <!---
 lee000403/lee000403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
