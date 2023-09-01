@@ -34,7 +34,12 @@
 
 <h3 align="center">📒 Spring Boot Project 📒</h3>
 <p align="center">
-  <a href="https://github.com/lee000403/PROJECT_TAB/blob/main/README.md">[PROJECT-TAB팀의 치매 동행 프로젝트]</a>
+  <a href="https://github.com/lee000403/PROJECT_TAB/blob/main/README.md">PROJECT-TAB팀의 치매 동행 프로젝트</a>
+</p>
+
+<h3 align="center">📒 Spring Boot Project(JPA 버전 연습) 📒</h3>
+<p align="center">
+  <a href="https://github.com/lee000403/springboots_crud_jpa/blob/main/README.md">Spring Boot JPA 연습</a>
 </p>
 
 
