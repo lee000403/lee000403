@@ -7,8 +7,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<h3 align="center">📚 USE Language 📚</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<h3 align="center">📚 Most Used Languages 📚</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee000403)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
