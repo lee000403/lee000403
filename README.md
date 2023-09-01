@@ -33,7 +33,10 @@
 </p>
 
 <h3 align="center">📒 Spring Boot Project 📒</h3>
-[PROJECT-TAB팀의 치매 동행 프로젝트][https://github.com/lee000403/PROJECT_TAB/blob/main/README.md]
+<p align="center">
+  <a href="https://github.com/lee000403/PROJECT_TAB/blob/main/README.md">[PROJECT-TAB팀의 치매 동행 프로젝트]</a>
+</p>
+
 
 <!---
 lee000403/lee000403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
