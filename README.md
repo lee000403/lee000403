@@ -33,9 +33,7 @@
 </p>
 
 <h3 align="center">📒 Spring Boot Project 📒</h3>
-<p align="center">
   <https://github.com/lee000403/PROJECT_TAB/blob/main/README.md>
-</p>
 
 <!---
 lee000403/lee000403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
